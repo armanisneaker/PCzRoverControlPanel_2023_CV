@@ -1,0 +1,30 @@
+# ninja log v5
+3	866	6980237405643693	build.ninja	e768e0fe79810f16
+12	973	6979489575278688	TestTwo_autogen/timestamp	82ff01c34fb57019
+974	6694	6979489634429925	CMakeFiles/TestTwo.dir/TestTwo_autogen/mocs_compilation.cpp.obj	55d0cbcceeef2738
+12	973	6979489575278688	C:/Users/Armani/Documents/GitHub/RoverControlPanel/TestTwo - Copy/Build/TestTwo_autogen/timestamp	82ff01c34fb57019
+979	4362	6979489611020875	CMakeFiles/TestTwo.dir/Connection.cpp.obj	1c28743fe8eee55e
+12	973	6979489575278688	TestTwo_autogen/mocs_compilation.cpp	82ff01c34fb57019
+12	973	6979489575278688	C:/Users/Armani/Documents/GitHub/RoverControlPanel/TestTwo - Copy/Build/TestTwo_autogen/mocs_compilation.cpp	82ff01c34fb57019
+6343	9882	6902411058719228	CMakeFiles/TestTwo.dir/Arm.cpp.obj	82948abce82b389c
+1113	6300	6902411022513608	CMakeFiles/TestTwo.dir/Drive.cpp.obj	537aecb11c8414da
+500	7461	6902411617478759	CMakeFiles/TestTwo.dir/fast_settings.cpp.obj	ffb2325c58be898a
+730	9388	6860693336970729	CMakeFiles/TestTwo.dir/Navigate.cpp.obj	9508cb0be35e684
+6301	11294	6902411072876156	CMakeFiles/TestTwo.dir/Joystick.cpp.obj	481386bf65bc9dfc
+1125	6367	6902411023273080	CMakeFiles/TestTwo.dir/Input.cpp.obj	771c1e5aad444dd9
+497	9175	6902411634778552	CMakeFiles/TestTwo.dir/movement.cpp.obj	6384a736af81e09c
+984	7435	6979489641858283	CMakeFiles/TestTwo.dir/mainwindow.cpp.obj	1d0494a251b121b
+976	8341	6979489650875052	CMakeFiles/TestTwo.dir/main.cpp.obj	4c8810352e53088f
+8342	8924	6979489656694341	TestTwo.exe	b4fe63571c6d87aa
+5424	17025	6906784712463283	CMakeFiles/TestTwo.dir/mapmodule.cpp.obj	fb3ee6ffe45e27ea
+351	6058	6902447288796667	CMakeFiles/TestTwo.dir/rover_pointer.cpp.obj	50937ac77b845413
+990	7067	6979489638147084	CMakeFiles/TestTwo.dir/GPSList.cpp.obj	91d6299a9ddb5944
+21	2067	6980237427661024	TestTwo_autogen/timestamp	82ff01c34fb57019
+21	2067	6980237427661024	TestTwo_autogen/mocs_compilation.cpp	82ff01c34fb57019
+21	2067	6980237427661024	C:/Users/Armani/Documents/GitHub/RoverControlPanel/TestTwo - Copy/Build/TestTwo_autogen/timestamp	82ff01c34fb57019
+21	2067	6980237427661024	C:/Users/Armani/Documents/GitHub/RoverControlPanel/TestTwo - Copy/Build/TestTwo_autogen/mocs_compilation.cpp	82ff01c34fb57019
+2080	6911	6980237477954494	CMakeFiles/TestTwo.dir/TestTwo_autogen/mocs_compilation.cpp.obj	55d0cbcceeef2738
+2089	7132	6980237480164320	CMakeFiles/TestTwo.dir/GPSList.cpp.obj	91d6299a9ddb5944
+2083	7391	6980237482776390	CMakeFiles/TestTwo.dir/mainwindow.cpp.obj	1d0494a251b121b
+2086	8441	6980237493291691	CMakeFiles/TestTwo.dir/main.cpp.obj	4c8810352e53088f
+8441	9189	6980237500702300	TestTwo.exe	b4fe63571c6d87aa
