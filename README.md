@@ -1,2 +1,2 @@
-# PCzRoverControlPanel_2023_for_CV
-Martian Rover Control Panel - Qt C++
+# PCzRoverControlPanel_2023
+Czestochowa University of Technology Martian Rover Control Panel - Qt C++
